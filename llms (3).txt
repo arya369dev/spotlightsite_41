@@ -1,0 +1,66 @@
+# Spotlight
+
+> Spotlight is an AI-powered media and digital marketing agency. Where marketing meets intelligence. We help brands get found, remembered and chosen through strategy, performance advertising, content, film, brand identity, SEO and AI search optimisation.
+
+Key facts:
+- Website: https://spotlight.agency
+- Contact: hello@spotlight.agency
+- Based in India, working with clients in India and worldwide
+- Free offer: a growth audit delivered within 48 hours, with no obligation
+- Every AI-assisted strategy, creative and post is reviewed and approved by a person before it goes live
+
+## Services: six pillars (human-led, technology-enabled)
+1. Strategy & Intelligence: Digital strategy, audience intelligence, competitor intelligence, platform strategy, campaign planning and content strategy.
+2. Content & Creative: Content calendars, copywriting, static social creatives, carousels, Reels, Shorts, campaign adaptations and multi-format production.
+3. Social Media Management: Account management, scheduling, publishing, approvals, community monitoring and ongoing channel optimisation.
+4. Paid Media & Performance: Meta Ads, Google Ads, campaign setup, audience targeting, creative testing, budget pacing, optimisation and performance analysis.
+5. Social Listening & Digital Intelligence: Brand mentions, sentiment, trends, conversation spikes, competitor activity and emerging opportunities or issues.
+6. Analytics, Reporting & Optimisation: Live or periodic performance dashboards, automated reports, campaign insights, content-performance analysis and recommendations for the next cycle.
+
+Also offered: brand identity, SEO and AI-search optimisation (AEO/GEO), influencer and creator marketing, websites and conversion funnels, video and media production.
+
+## The 19 service areas
+- Digital Strategy: Brand audit, audience definition, competitor analysis, channel strategy, campaign strategy and monthly/quarterly plans. (AI role: Analyse historical data and surface opportunities.)
+- Social Media Management: Instagram, Facebook, LinkedIn, X and other relevant channels. (AI role: Centralised planning, scheduling and monitoring.)
+- Content Strategy: Content pillars, themes, formats, posting frequency and campaign ideas. (AI role: Generate first-draft monthly calendars from the client brief and historical performance.)
+- Content Calendar: Monthly and weekly platform-specific calendars. (AI role: AI-assisted calendar generation, followed by human review.)
+- Copywriting: Captions, hooks, CTAs, post copy, campaign messaging and variants. (AI role: Generate 2–3 brand-specific drafts; humans edit and approve.)
+- Social Creative Production: Static posts, carousels, stories, Reels and short-form assets, and adaptations. (AI role: Templates, automated resizing and AI-assisted rough cuts.)
+- Short-form Video: Reels, Shorts, social edits, cutdowns and campaign clips. (AI role: AI identifies or creates rough highlight cuts; an editor finishes them.)
+- Publishing & Scheduling: Scheduling, publishing, campaign coordination and approval workflows. (AI role: API and tool-driven publishing after approval.)
+- Paid Social Advertising: Meta campaign setup, targeting, creatives, testing and optimisation. (AI role: Performance monitoring and budget-pacing recommendations.)
+- Google Advertising: Search, display and video campaign operations where relevant. (AI role: Pull campaign data and recommend optimisations.)
+- Performance Marketing: Campaign management using CTR, CPC, CPM, conversions and ROAS. (AI role: Detect underperformance and recommend spend redistribution.)
+- Campaign Management: Product launches, film and OTT launches, brand campaigns, events and seasonal campaigns. (AI role: Unified campaign and project workflow.)
+- Community Monitoring: Comments, conversations, audience response and emerging issues. (AI role: Monitoring and signal detection; humans handle judgment-sensitive responses.)
+- Social Listening: Brand mentions, conversation patterns, sentiment and spikes. (AI role: Automated collection and sentiment classification.)
+- Competitor Intelligence: Competitor content, activity and performance monitoring. (AI role: Automated data collection and comparison.)
+- Performance Analytics: Reach, impressions, engagement, spend and campaign performance. (AI role: Daily automated data ingestion into the Spotlight platform.)
+- Client Reporting: Weekly and monthly reports, insights and recommendations. (AI role: Automatically generated dashboards and decks using current data.)
+- Content Performance Intelligence: Identify which themes, formats, hooks and platforms work. (AI role: Historical performance feeds future planning.)
+- Digital Campaign Optimisation: Continuous improvement of content and paid campaigns. (AI role: Data leads to recommendations, human decisions and execution.)
+
+## How we work
+One connected growth loop: Understand > Strategize > Create > Publish > Amplify > Monitor > Measure > Learn > Optimize > Repeat.
+1. Start with a clear client brief (brand, objective, audience, campaign brief, budget)
+2. Create, approve and activate (AI drafts stay drafts until a person approves; budget changes start as recommendations)
+3. Measure, learn and improve (learnings feed next month's strategy)
+
+## Featured project
+- BiggTime Entertainment: "Pyaar Hi Pyaar Beshumaar", a grand live musical tribute to legendary actor Dharmendra with singers and a full orchestra (21 August 2026). Sixteen event photos play on a real-time 3D cinema screen on the homepage under Projects (https://spotlight.agency/#projects).
+
+## Free tools on the site
+- Brand scanner: enter a website to get an instant check of its search basics, social share preview, Meta Pixel / Google tag, AI-crawler access and llms.txt.
+- SPOT·AI: a chat and voice assistant that answers questions about Spotlight's services and the free growth audit.
+
+## Pages
+- [Home](https://spotlight.agency/): services, process, FAQ, SPOT·AI chat and the free growth audit form
+- [Services catalogue](https://spotlight.agency/services): 6 pillars and 19 service areas, with the AI role in each
+- [Insights](https://spotlight.agency/insights): blog, news and events
+- [Full content index](https://spotlight.agency/llms-full.txt): every published article, news item and event
+- [Privacy policy](https://spotlight.agency/privacy)
+- [Terms & conditions](https://spotlight.agency/terms)
+
+## Optional
+- [RSS feed](https://spotlight.agency/feed.xml)
+- [Sitemap](https://spotlight.agency/sitemap.xml)
