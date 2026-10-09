@@ -1,0 +1,201 @@
+{
+  "_readme": "Content for the /services catalogue and the SPOT·AI chat assistant. The chat reads this file live; the catalogue pages in services.html were generated from it.",
+  "tagline": "Strategy. Creativity. Performance.",
+  "intro": "A technology-enabled agency service framework that connects planning, content, publishing, paid amplification and performance learning.",
+  "humanLed": "AI supports research, repetitive operations and first drafts. Spotlight people lead strategy, creativity, judgment, approvals and client relationships.",
+  "pillars": [
+    {
+      "id": "01",
+      "slug": "strategy",
+      "name": "Strategy & Intelligence",
+      "gel": "rose",
+      "icon": "target",
+      "desc": "Digital strategy, audience intelligence, competitor intelligence, platform strategy, campaign planning and content strategy."
+    },
+    {
+      "id": "02",
+      "slug": "content",
+      "name": "Content & Creative",
+      "gel": "peach",
+      "icon": "spark",
+      "desc": "Content calendars, copywriting, static social creatives, carousels, Reels, Shorts, campaign adaptations and multi-format production."
+    },
+    {
+      "id": "03",
+      "slug": "social",
+      "name": "Social Media Management",
+      "gel": "mint",
+      "icon": "phone",
+      "desc": "Account management, scheduling, publishing, approvals, community monitoring and ongoing channel optimisation."
+    },
+    {
+      "id": "04",
+      "slug": "paid",
+      "name": "Paid Media & Performance",
+      "gel": "lilac",
+      "icon": "rocket",
+      "desc": "Meta Ads, Google Ads, campaign setup, audience targeting, creative testing, budget pacing, optimisation and performance analysis."
+    },
+    {
+      "id": "05",
+      "slug": "listening",
+      "name": "Social Listening & Digital Intelligence",
+      "gel": "sky",
+      "icon": "radar",
+      "desc": "Brand mentions, sentiment, trends, conversation spikes, competitor activity and emerging opportunities or issues."
+    },
+    {
+      "id": "06",
+      "slug": "analytics",
+      "name": "Analytics, Reporting & Optimisation",
+      "gel": "butter",
+      "icon": "chart",
+      "desc": "Live or periodic performance dashboards, automated reports, campaign insights, content-performance analysis and recommendations for the next cycle."
+    }
+  ],
+  "services": [
+    {
+      "name": "Digital Strategy",
+      "pillar": "01",
+      "provides": "Brand audit, audience definition, competitor analysis, channel strategy, campaign strategy and monthly/quarterly plans.",
+      "ai": "Analyse historical data and surface opportunities."
+    },
+    {
+      "name": "Social Media Management",
+      "pillar": "03",
+      "provides": "Instagram, Facebook, LinkedIn, X and other relevant channels.",
+      "ai": "Centralised planning, scheduling and monitoring."
+    },
+    {
+      "name": "Content Strategy",
+      "pillar": "01",
+      "provides": "Content pillars, themes, formats, posting frequency and campaign ideas.",
+      "ai": "Generate first-draft monthly calendars from the client brief and historical performance."
+    },
+    {
+      "name": "Content Calendar",
+      "pillar": "02",
+      "provides": "Monthly and weekly platform-specific calendars.",
+      "ai": "AI-assisted calendar generation, followed by human review."
+    },
+    {
+      "name": "Copywriting",
+      "pillar": "02",
+      "provides": "Captions, hooks, CTAs, post copy, campaign messaging and variants.",
+      "ai": "Generate 2–3 brand-specific drafts; humans edit and approve."
+    },
+    {
+      "name": "Social Creative Production",
+      "pillar": "02",
+      "provides": "Static posts, carousels, stories, Reels and short-form assets, and adaptations.",
+      "ai": "Templates, automated resizing and AI-assisted rough cuts."
+    },
+    {
+      "name": "Short-form Video",
+      "pillar": "02",
+      "provides": "Reels, Shorts, social edits, cutdowns and campaign clips.",
+      "ai": "AI identifies or creates rough highlight cuts; an editor finishes them."
+    },
+    {
+      "name": "Publishing & Scheduling",
+      "pillar": "03",
+      "provides": "Scheduling, publishing, campaign coordination and approval workflows.",
+      "ai": "API and tool-driven publishing after approval."
+    },
+    {
+      "name": "Paid Social Advertising",
+      "pillar": "04",
+      "provides": "Meta campaign setup, targeting, creatives, testing and optimisation.",
+      "ai": "Performance monitoring and budget-pacing recommendations."
+    },
+    {
+      "name": "Google Advertising",
+      "pillar": "04",
+      "provides": "Search, display and video campaign operations where relevant.",
+      "ai": "Pull campaign data and recommend optimisations."
+    },
+    {
+      "name": "Performance Marketing",
+      "pillar": "04",
+      "provides": "Campaign management using CTR, CPC, CPM, conversions and ROAS.",
+      "ai": "Detect underperformance and recommend spend redistribution."
+    },
+    {
+      "name": "Campaign Management",
+      "pillar": "01",
+      "provides": "Product launches, film and OTT launches, brand campaigns, events and seasonal campaigns.",
+      "ai": "Unified campaign and project workflow."
+    },
+    {
+      "name": "Community Monitoring",
+      "pillar": "03",
+      "provides": "Comments, conversations, audience response and emerging issues.",
+      "ai": "Monitoring and signal detection; humans handle judgment-sensitive responses."
+    },
+    {
+      "name": "Social Listening",
+      "pillar": "05",
+      "provides": "Brand mentions, conversation patterns, sentiment and spikes.",
+      "ai": "Automated collection and sentiment classification."
+    },
+    {
+      "name": "Competitor Intelligence",
+      "pillar": "05",
+      "provides": "Competitor content, activity and performance monitoring.",
+      "ai": "Automated data collection and comparison."
+    },
+    {
+      "name": "Performance Analytics",
+      "pillar": "06",
+      "provides": "Reach, impressions, engagement, spend and campaign performance.",
+      "ai": "Daily automated data ingestion into the Spotlight platform."
+    },
+    {
+      "name": "Client Reporting",
+      "pillar": "06",
+      "provides": "Weekly and monthly reports, insights and recommendations.",
+      "ai": "Automatically generated dashboards and decks using current data."
+    },
+    {
+      "name": "Content Performance Intelligence",
+      "pillar": "06",
+      "provides": "Identify which themes, formats, hooks and platforms work.",
+      "ai": "Historical performance feeds future planning."
+    },
+    {
+      "name": "Digital Campaign Optimisation",
+      "pillar": "06",
+      "provides": "Continuous improvement of content and paid campaigns.",
+      "ai": "Data leads to recommendations, human decisions and execution."
+    }
+  ],
+  "loopA": [
+    "Understand",
+    "Strategize",
+    "Create",
+    "Publish",
+    "Amplify"
+  ],
+  "loopB": [
+    "Monitor",
+    "Measure",
+    "Learn",
+    "Optimize",
+    "Repeat"
+  ],
+  "steps": [
+    {
+      "title": "Start with a clear client brief",
+      "text": "You share your brand, objective, audience, campaign brief and budget. Spotlight turns these inputs into a coordinated strategy and content calendar."
+    },
+    {
+      "title": "Create, approve and activate",
+      "text": "We develop copy and creative, get human approval, schedule and publish, and run paid amplification. AI-written copy stays a draft until reviewed, and budget changes start as recommendations that need human approval."
+    },
+    {
+      "title": "Measure, learn and improve",
+      "text": "We monitor audience response and campaign performance, find the themes, formats, hooks and channels that work, and feed those learnings into next month's strategy: a closed learning loop across content and paid media."
+    }
+  ],
+  "positioning": "The six pillars work as one end-to-end digital growth service. Every engagement connects your objective, strategy, execution and performance review, so each deliverable has a clear purpose within the campaign."
+}

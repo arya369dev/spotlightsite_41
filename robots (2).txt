@@ -1,0 +1,35 @@
+# Spotlight — https://spotlight.agency
+# Search engines and AI assistants are welcome to read and cite this site.
+
+User-agent: *
+Allow: /
+Disallow: /api/
+
+# AI crawlers (explicitly allowed so assistants can cite us)
+User-agent: GPTBot
+Allow: /
+Disallow: /api/
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+Disallow: /api/
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+Sitemap: https://spotlight.agency/sitemap.xml

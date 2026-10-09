@@ -1,0 +1,13 @@
+{
+  "name": "Spotlight — Where marketing meets intelligence",
+  "short_name": "Spotlight",
+  "description": "AI-powered media and digital marketing agency.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FBFAFD",
+  "theme_color": "#000000",
+  "icons": [
+    { "src": "/favicon-180.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "/favicon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}

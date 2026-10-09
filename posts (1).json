@@ -1,0 +1,132 @@
+{
+  "_readme": "Content source for Blog, News and Events. Only items with status 'published' appear on the site. AI/n8n pipelines should add items with status 'pending_review'; a person changes it to 'published' to go live. Body is Markdown. See README.md > Content automation.",
+  "posts": [
+    {
+      "slug": "get-cited-by-ai-assistants",
+      "type": "blog",
+      "status": "published",
+      "title": "How to get your brand cited by ChatGPT, Gemini and Perplexity",
+      "excerpt": "AI assistants are the new front page. Here is the practical checklist we use to make brands easy for them to understand, trust and quote.",
+      "date": "2026-10-01",
+      "author": "Spotlight Team",
+      "tags": ["AI search", "GEO", "AEO", "SEO"],
+      "readingTime": 6,
+      "generatedBy": "human",
+      "body": "When someone asks an AI assistant *\"which agency should I hire\"* or *\"what's the best moisturiser for dry skin\"*, the answer it gives is the new front page of the internet. If your brand isn't in that answer, you are invisible to a growing share of buyers.\n\nThe good news: the work that gets you cited is concrete. Here is the checklist we run for every client.\n\n## 1. Say what you are, in one plain sentence\n\nAI models summarise. Make the summary easy. Your homepage, About page and social bios should all contain the same clear line: who you are, what you do, and for whom. Consistency across the web is a trust signal.\n\n## 2. Answer real questions on your own pages\n\nList the 20 questions customers ask before buying, then answer each one in two or three direct sentences. Put the best ones in an FAQ with FAQPage structured data. Question-led content is exactly what answer engines look for.\n\n## 3. Add structured data everywhere it fits\n\n- Organization and LocalBusiness or ProfessionalService\n- Product, Offer and Review where they are real\n- Article, FAQPage, Event and VideoObject\n\nStructured data turns your pages from text into facts a machine can use.\n\n## 4. Publish an llms.txt file\n\nA short Markdown file at `/llms.txt` that tells AI crawlers what your site is about and where the important pages live. It takes ten minutes and costs nothing.\n\n## 5. Let the right crawlers in\n\nCheck your robots.txt. Many sites block AI crawlers by accident. Decide deliberately which ones you allow.\n\n## 6. Earn mentions, not just links\n\nAssistants learn from what others say about you: reviews, press, directories, community threads. A steady drumbeat of genuine mentions matters more than one big backlink.\n\n> The brands that win AI search are the ones that are easiest to describe accurately.\n\nWant to know how visible you are today? Our free growth audit includes an AI-visibility check.",
+      "faq": [
+        {"q": "What is generative engine optimisation (GEO)?", "a": "GEO is the practice of making your brand easy for AI assistants to understand, trust and cite, using clear facts, structured data, question-led content and consistent mentions across the web."},
+        {"q": "Does normal SEO still matter?", "a": "Yes. AI assistants lean heavily on pages that already rank and load fast. GEO builds on good SEO rather than replacing it."}
+      ]
+    },
+    {
+      "slug": "meta-ads-creative-testing",
+      "type": "blog",
+      "status": "published",
+      "title": "Stop guessing your Meta ads: a simple creative testing system",
+      "excerpt": "Most ad accounts don't have a targeting problem, they have a creative problem. A lightweight testing rhythm that small teams can actually run.",
+      "date": "2026-09-24",
+      "author": "Spotlight Team",
+      "tags": ["Meta Ads", "Performance marketing", "Creative"],
+      "readingTime": 5,
+      "generatedBy": "human",
+      "body": "Meta's delivery system is very good at finding people. What it can't do is fix an ad nobody wants to watch. That is why creative is now the biggest lever in most accounts.\n\n## Test ideas, not button colours\n\nA useful test changes the **idea**: the hook, the promise, the format. Swapping one word in a headline rarely teaches you anything.\n\n## A weekly rhythm\n\n1. Monday: launch three to five new concepts in a dedicated testing campaign.\n2. Thursday: read early signals: hook rate, hold rate, click-through, cost per result.\n3. Next Monday: move the winner into your scaling campaign and retire the losers.\n\n## Track the right numbers\n\n- **Hook rate**: the share of impressions that watch the first three seconds\n- **Hold rate**: how many keep watching to the end\n- **Cost per result**: the number that pays the bills\n\n## Feed the machine good data\n\nSet up the Meta Pixel *and* the Conversions API, deduplicated with a shared event ID, so the algorithm sees every lead and sale even when browsers block cookies.\n\nGet these basics right and every rupee you spend teaches you something.",
+      "faq": [
+        {"q": "How many creatives should I test at once?", "a": "For most small and mid-size budgets, three to five new concepts a week is enough to learn quickly without spreading spend too thin."}
+      ]
+    },
+    {
+      "slug": "website-launch-checklist",
+      "type": "blog",
+      "status": "published",
+      "title": "The 20-point checklist we run before any website goes live",
+      "excerpt": "Privacy policy to page speed, spam protection to social previews. The unglamorous details that decide whether a beautiful site actually works.",
+      "date": "2026-09-15",
+      "author": "Spotlight Team",
+      "tags": ["Websites", "SEO", "Conversion"],
+      "readingTime": 4,
+      "generatedBy": "human",
+      "body": "A website can look stunning and still leak leads. Before we launch anything, we tick every box below.\n\n## Trust and legal\n\n- Privacy policy and terms and conditions\n- Cookie consent banner that blocks tracking until the visitor agrees\n- HTTPS enforced everywhere\n- No secret keys in front-end code\n\n## Findability\n\n- Unique meta titles and descriptions on every page\n- Social preview image for WhatsApp, LinkedIn and X\n- Favicon in every size\n- sitemap.xml and robots.txt\n- Descriptive alt text on images\n\n## Speed and access\n\n- Compressed images and video\n- A page speed check on mobile\n- Colour contrast that passes WCAG AA\n- Fully responsive on phones\n\n## Reliability\n\n- A custom 404 page\n- No broken links\n- Form validation with clear error messages\n- Spam protection on every form\n- Analytics set up and tested\n\n## Focus\n\n- **One** clear call to action\n\nThat last one matters most. Every page should make the next step obvious."
+    },
+    {
+      "slug": "spotlight-launches-free-growth-audit",
+      "type": "news",
+      "status": "published",
+      "title": "Spotlight launches a free 48-hour growth audit",
+      "excerpt": "Any brand can now request a no-obligation review of its website, ads, social and AI-search visibility, delivered within two working days.",
+      "date": "2026-10-02",
+      "author": "Spotlight Team",
+      "tags": ["Company news", "Growth audit"],
+      "readingTime": 2,
+      "generatedBy": "human",
+      "body": "Spotlight has launched a free growth audit for brands that want an honest outside view of their marketing.\n\n## What's included\n\n- A visibility check across website, ads, social and search\n- A snapshot of what top competitors are running\n- A prioritised list of the first three changes to make\n\nThe audit is delivered within 48 hours and there is no obligation to work with us afterwards.\n\nRequest yours from the form at the bottom of our homepage."
+    },
+    {
+      "slug": "new-spotlight-website",
+      "type": "news",
+      "status": "published",
+      "title": "Our new website is live, and built for AI search from day one",
+      "excerpt": "Structured data, llms.txt, consent-first analytics and an automated insights engine. What we built and why.",
+      "date": "2026-10-03",
+      "author": "Spotlight Team",
+      "tags": ["Company news", "AI search"],
+      "readingTime": 3,
+      "generatedBy": "human",
+      "body": "We rebuilt Spotlight from the ground up to practise what we preach.\n\n## What's new\n\n- **AI-search ready**: full structured data, an llms.txt file and question-led content\n- **Privacy first**: no analytics or ad tracking loads until you say yes\n- **Always fresh**: our blog, news and events are published through an automated pipeline with a human approval step\n- **Fast everywhere**: compressed media and a lightweight build\n\nThanks for stopping by. If you'd like the same for your brand, start with a free audit."
+    },
+    {
+      "slug": "webinar-ai-search-for-brands",
+      "type": "event",
+      "status": "published",
+      "title": "Webinar: AI search for brands — getting cited by ChatGPT and Gemini",
+      "excerpt": "A 45-minute live session on how AI assistants choose which brands to recommend, and what you can do about it this quarter.",
+      "date": "2026-10-03",
+      "author": "Spotlight Team",
+      "tags": ["Event", "Webinar", "AI search"],
+      "readingTime": 1,
+      "generatedBy": "human",
+      "event": {
+        "start": "2026-11-12T16:00:00+05:30",
+        "end": "2026-11-12T16:45:00+05:30",
+        "mode": "online",
+        "location": "Online (Google Meet)",
+        "registerUrl": "mailto:hello@spotlight.agency?subject=Register%3A%20AI%20search%20webinar",
+        "price": "Free"
+      },
+      "body": "Join the Spotlight team for a practical, jargon-free session on AI search.\n\n## You'll learn\n\n- How assistants like ChatGPT, Gemini and Perplexity pick sources\n- The five fixes that improve AI visibility fastest\n- How to measure whether it's working\n\nThere will be 15 minutes for live questions at the end."
+    },
+    {
+      "slug": "masterclass-meta-ads-for-d2c",
+      "type": "event",
+      "status": "published",
+      "title": "Masterclass: Meta ads that sell for D2C founders",
+      "excerpt": "Creative testing, Conversions API and budget pacing, explained live with real account walkthroughs.",
+      "date": "2026-10-03",
+      "author": "Spotlight Team",
+      "tags": ["Event", "Masterclass", "Meta Ads"],
+      "readingTime": 1,
+      "generatedBy": "human",
+      "event": {
+        "start": "2026-12-05T11:00:00+05:30",
+        "end": "2026-12-05T12:30:00+05:30",
+        "mode": "online",
+        "location": "Online (Zoom)",
+        "registerUrl": "mailto:hello@spotlight.agency?subject=Register%3A%20Meta%20ads%20masterclass",
+        "price": "Free"
+      },
+      "body": "A 90-minute hands-on masterclass for founders and marketing leads running their own Meta ads.\n\n## Agenda\n\n1. Building a creative testing rhythm\n2. Setting up Pixel and Conversions API properly\n3. Budget pacing and when to scale\n4. Live Q&A"
+    },
+    {
+      "slug": "draft-example-ai-written-post",
+      "type": "blog",
+      "status": "pending_review",
+      "title": "Draft example: an AI-written post waiting for approval",
+      "excerpt": "This item shows the approval gate. It will not appear anywhere on the site until a person changes its status to published.",
+      "date": "2026-10-03",
+      "author": "Spotlight Team",
+      "tags": ["Example"],
+      "readingTime": 1,
+      "generatedBy": "ai",
+      "body": "AI-drafted content lands here as **pending_review**. Edit it, then set status to **published**."
+    }
+  ]
+}

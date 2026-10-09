@@ -1,0 +1,7 @@
+{
+  "name": "spotlight-website",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Spotlight — where marketing meets intelligence. Static site + Vercel functions.",
+  "engines": { "node": ">=18" }
+}

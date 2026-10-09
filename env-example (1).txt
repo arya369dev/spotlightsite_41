@@ -1,0 +1,32 @@
+# Copy these into Vercel > Project > Settings > Environment Variables.
+# NEVER put these values in main.js or any HTML file.
+
+# Your live domain (used in sitemap, RSS, canonical links on insights pages)
+SITE_URL=https://spotlight.agency
+
+# Where audit-form leads go. Set at least ONE of these two options.
+# Option A: n8n / Make / Zapier webhook
+CONTACT_WEBHOOK_URL=
+CONTACT_WEBHOOK_SECRET=            # optional: signs each request (header x-spotlight-signature, HMAC-SHA256)
+# Option B: email via Resend (resend.com)
+RESEND_API_KEY=
+LEAD_NOTIFY_EMAIL=hello@spotlight.agency
+LEAD_FROM_EMAIL=Spotlight Website <website@spotlight.agency>
+
+# Spam protection (optional): Cloudflare Turnstile SECRET key.
+# The matching SITE key goes in main.js CONFIG.TURNSTILE_SITE_KEY (that one is public).
+TURNSTILE_SECRET_KEY=
+
+# Meta Conversions API (server-side Lead events, deduplicated with the Pixel)
+META_PIXEL_ID=
+META_CAPI_TOKEN=
+META_TEST_EVENT_CODE=              # optional, only while testing in Events Manager
+META_GRAPH_VERSION=v21.0
+
+# Optional: only accept form posts from these origins (comma separated)
+ALLOWED_ORIGINS=https://spotlight.agency,https://www.spotlight.agency
+
+# SPOT·AI chat (optional). Without this the chat uses its built-in knowledge base.
+# Get a key at console.anthropic.com. It stays on the server; never put it in a .js file.
+ANTHROPIC_API_KEY=
+CHAT_MODEL=claude-haiku-4-5-20251001
